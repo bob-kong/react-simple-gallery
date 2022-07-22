@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.fab7a4fd.css","mappings":"AAAA,KACE,iBACF,CAEA,cACE,YACF","sources":["index.css"],"sourcesContent":["body{\n  overflow-x: hidden;\n}\n\n.card-img-top {\n  height: 15rem;\n}"],"names":[],"sourceRoot":""}
