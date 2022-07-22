@@ -38,8 +38,8 @@ const Gallery = () => {
 
                       {productData.map((item,index) => (
                           <div className='col-md-3 mb-4'>
-                              <div className="card"  key={index}>
-                                 <img src={item.image} className="card-img-top w-80 h-80" alt="" />
+                              <div className="card"  key={index} >
+                                 <img src={item.image} className="card-img-top " alt="" />
                                  <div className="card-body">
                                     <h5 className="card-title fw-bold">{item.title}</h5>
                                     <p className="card-text mb-3">{item.description}</p>
